@@ -11,16 +11,16 @@ The Vine program is a service that allows manufacturers and publishers to receiv
 *Non-Vine Participant Data Example*  
 
 * How many Vine reviews and non-Vine reviews were there?  
-** Total number of reviews in the paid Vine program: 94  
-** Total number of reviews in the unpaid program: 40471  
+  * Total number of reviews in the paid Vine program: 94  
+  * Total number of reviews in the unpaid program: 40471  
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?  
-** Total number of 5-star reviews in the paid Vine program: 48
-** Total number of 5-star reviews in the unpaid program: 15663
+  * Total number of 5-star reviews in the paid Vine program: 48
+  * Total number of 5-star reviews in the unpaid program: 15663
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?  
-** Percentage of 5-star reviews in the paid Vine program:  51.06 %
-** Percentage of 5-star reviews in the unpaid program:  38.7 %
+  * Percentage of 5-star reviews in the paid Vine program:  51.06 %
+  * Percentage of 5-star reviews in the unpaid program:  38.7 %
 
 ### Summary  
 
