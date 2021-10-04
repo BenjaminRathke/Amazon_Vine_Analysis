@@ -22,6 +22,9 @@ The Vine program is a service that allows manufacturers and publishers to receiv
   * Percentage of 5-star reviews in the paid Vine program:  51.06 %
   * Percentage of 5-star reviews in the unpaid program:  38.7 %
 
+![Vine Analysis Output](VineAnalysis.PNG)  
+*Vine Analysis Output*
+
 ### Summary  
 It would appear that there is a positivity bias in reviews in the Vine program, possibly as a result of the participants knowing they are paid for their reviews.  Over 51.06% of the sampled data in the Vine provided the highest possible review, as apposed to 38.7% in the non-paid sample.
 
