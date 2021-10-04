@@ -5,10 +5,11 @@ The Vine program is a service that allows manufacturers and publishers to receiv
 
 ## Results
 ![Vine Participant Data Example](YVine.PNG)  
-Vine Participant Example     
+*Vine Participant Example*
+
 
 ![Non-Vine Participant Data Example](NVine.PNG)  
-Non-Vine Participant Data Example  
+*Non-Vine Participant Data Example*  
 
 * How many Vine reviews and non-Vine reviews were there?  
 
