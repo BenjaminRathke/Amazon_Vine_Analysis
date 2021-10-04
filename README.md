@@ -4,7 +4,8 @@
 The Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. The purpose of the analysis is to determine whether or not members of The Vine program have a higher likelihood of writing a five-star review; important information to have to determine the veracity of the Vine five-star reviews.  First, the ETL process is executed on the raw data set provided by Amazon, then an analysis is performed using Python/PySpark.
 
 ## Results
-Using bulleted lists and images of DataFrames as support, address the following questions:
+![Vine Participant Data Example](YVine.PNG)  ![Non-Vine Participant Data Example](NVine.PNG)  
+Vine Participant Example                      Non-Vine Participant Data Example
 
 * How many Vine reviews and non-Vine reviews were there?  
 
