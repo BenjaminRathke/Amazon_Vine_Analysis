@@ -1,7 +1,7 @@
 # Big Data
 
 ## Overview of the Analysis
-The Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. The purpose of the analysis is to determine whether or not members of The Vine program have a higher likelihood of writing a five-star review; important information to have to determine the veracity of the Vine five-star reviews.  First, the ETL process is executed on the raw data set provided by Amazon, then an analysis is performed using Python/PySpark.
+The Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. The purpose of the analysis is to determine whether or not members of The Vine program have a higher likelihood of writing a five-star review; important information to have to determine the veracity of the Vine five-star reviews.  First, the ETL process is executed on the raw data set provided by Amazon, then an analysis is performed using Python/PySpark.  For the purposes of this analysis, video game product reviews have been included.
 
 ## Results
 ![Vine Participant Data Example](YVine.PNG)  
@@ -23,6 +23,7 @@ The Vine program is a service that allows manufacturers and publishers to receiv
   * Percentage of 5-star reviews in the unpaid program:  38.7 %
 
 ### Summary  
+It would appear that there is a positivity bias in reviews in the Vine program, possibly as a result of the participants knowing they are paid for their reviews.  Over 51.06% of the sampled data in the Vine provided the highest possible review, as apposed to 38.7% in the non-paid sample.
 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+Considering that this data only reflects data surrounding video game products, results may be more accurate if the analysis was performed after an ETL process that would extract and join multiple data sets across multiple product categories to balance differing tastes, preferences, and behaviors among typical video game consumers and the buying population in general.  Furthermore, it would help remove uncertainty regarding whether or not sample data and analysis results are influenced by product type.
 
